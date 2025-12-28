@@ -38,19 +38,24 @@ The raw dataset is preserved, and all preprocessing steps are fully reproducible
 
 ## Repository Structure
 
-semiconductor-sector-data-analysis/
+```text
+semiconductor-time-series-analysis/
 │
 ├── data/
-│ ├── raw/ # Original dataset (unchanged)
-│ └── processed/ # Filtered and cleaned dataset used for analysis
+│   ├── raw/
+│   │   └── semi_conductor_se.csv
+│   │
+│   └── processed/
+│       └── semiconductor_stocks_data_2015_2025.csv
 │
 ├── scripts/
-│ └── filter_dataset.py # Script used to preprocess and filter the raw data
+│   └── filter_dataset.py
 │
 ├── notebooks/
-│ └── semiconductor_analysis.ipynb # Main analysis notebook
-│
+│   └── semiconductor_analysis.ipynb
 └── README.md
+```
+
 
 
 ---

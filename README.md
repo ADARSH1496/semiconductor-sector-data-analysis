@@ -1,4 +1,4 @@
-# Semiconductor Time-Series Data Analysis
+# Semiconductor Sector Data Analysis
 
 ## Overview
 This repository contains a **time-series data analysis project** focused on the **semiconductor sector**, using historical daily stock market data from **2015 to 2025**.

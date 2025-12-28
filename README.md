@@ -39,7 +39,7 @@ The raw dataset is preserved, and all preprocessing steps are fully reproducible
 ## Repository Structure
 
 ```text
-semiconductor-time-series-analysis/
+semiconductor-sector-data-analysis/
 │
 ├── data/
 │   ├── raw/

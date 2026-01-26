@@ -34,27 +34,7 @@ These companies cover different segments of the semiconductor value chain, such 
 
 The raw dataset is preserved, and all preprocessing steps are fully reproducible.
 
----
 
-## Repository Structure
-
-```text
-semiconductor-sector-data-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── semi_conductor_se.csv
-│   │
-│   └── processed/
-│       └── semiconductor_stocks_data_2015_2025.csv
-│
-├── scripts/
-│   └── filter_dataset.py
-│
-├── notebooks/
-│   └── semiconductor_analysis.ipynb
-└── README.md
-```
 
 
 

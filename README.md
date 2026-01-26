@@ -11,6 +11,7 @@ This project is developed as part of a **Data Analysis course (Semester 1)** and
 
 ## Dataset
 The analysis is based on a publicly available dataset originally collected using the `yfinance` Python library and sourced from Kaggle.
+
 Link to the dataset - https://www.kaggle.com/datasets/farukece/semiconductor-stocks-and-the-ai-surge
 
 **Dataset characteristics:**

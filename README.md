@@ -30,9 +30,7 @@ To improve interpretability and reduce unnecessary complexity, a **subset of rep
 These companies cover different segments of the semiconductor value chain, such as:
 - AI / data-center focused companies
 - Automotive and industrial-focused companies
-- Memory manufacturers
 - Semiconductor equipment suppliers
-- Foundries
 
 The raw dataset is preserved, and all preprocessing steps are fully reproducible.
 
